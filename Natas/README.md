@@ -10,9 +10,11 @@ lang: zh-tw
 }
 </style>
 
-
-
 {%hackmd theme-dark %}
+
+# 我使用的編輯器
+- [hackmd](https://hackmd.io)
+- [用hackmd看我的筆記](https://hackmd.io/@CHUNG-JUI-HE/H1djcfw0_)
 
 # OTW Natas write up
 :::info
